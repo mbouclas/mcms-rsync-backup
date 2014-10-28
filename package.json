@@ -1,0 +1,11 @@
+{
+  "name": "rsync-backup",
+  "version": "0.0.1",
+  "dependencies": {
+    "fs-extra": "~0.12.0",
+    "async": "~0.9.0",
+    "minimist": "~1.1.0",
+    "colors": "~1.0.3",
+    "moment": "~2.8.3"
+  }
+}
