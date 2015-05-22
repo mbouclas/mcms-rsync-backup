@@ -1,0 +1,10 @@
+{
+"useRsync" : true,
+"parallelOperations" : 5,
+"defaultDestination" : "./temp",
+"numberOfBackups" : 2,
+"archiveLocation" : ".temp/archives",
+"recursive" : false,
+"logsDir" : "./temp/backupLogs",
+  "excludeFrom" : "./excludeList.txt"
+}
